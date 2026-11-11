@@ -6,7 +6,7 @@ It is a plain static site with no build step and no external dependencies: fonts
 
 ```
 index.html
-css/style.css
+style.css
 js/main.js
 assets/images/   (12 .webp images)
 assets/fonts/    (7 .woff2 fonts)
